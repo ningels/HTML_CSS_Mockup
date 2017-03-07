@@ -1,0 +1,9 @@
+Explorer Mode
+1)  Create new rails application
+       $ rails new HTML_CSS_Mockup
+2)  Create new controller
+       $ rails g controller Mockup
+3)  Created empty file to start:
+       app/views/mockup/index.html.erb
+4)  Updated routes file:
+       route 'mockup#index'
